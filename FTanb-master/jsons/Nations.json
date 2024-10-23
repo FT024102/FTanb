@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Gawed",
+		"leaderName": "Welyam III Gerwick",
+		"adjective": ["Gawed"],
+		"startBias": ["Avoid [Coast]","Avoid [Desert]","River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Gawedstartintro1",
+		"startIntroPart2": "Gawedstartintro2",
+		
+		"declaringWar": "GaweddeclaringWar",
+		"attacked": "Gawedattacked",
+		"defeated": "Gaweddefeated",
+		"introduction": "Gawedintroduction",
+		
+		"neutralHello": "GawedneutralHello",
+		"neutralLetsHearIt": [ "GawedneutralLetsHearIt" ],
+		"neutralNo": [ "GawedneutralNo" ],
+		"neutralYes": [ "GawedneutralYes" ],
+
+		"hateHello": "GawedhateHello",
+		"hateLetsHearIt": [ "GawedhateLetsHearIt" ],
+		"hateNo": [ "GawedhateNo" ],
+		"hateYes": [ "GawedhateYes" ],
+		
+		"afterPeace": "GawedafterPeace",
+		"tradeRequest": "GawedtradeRequest",
+
+		"outerColor": [50,30,120],
+		"innerColor": [180,160,0],
+		"uniqueName": "The advance of the Northern Eagle",
+		"uniques": [ "[-25]% Culture cost of natural border growth [in all cities]", "[-10]% Unhappiness from [Population] [in all non-occupied cities]", "Each city founded increases culture cost of policies [25]% less than normal" ],
+		"cities": ["Gawetorn","Vangvery","Greatmarch","Westmores","Vertesk","adshaw","Allenas","allenboad","ginfield",
+			"Gidport","Gerwick","Allenfield","Moreturn","Highharbor","Valdfader","Talonmount","Allenkei","frostwall","Byvick",
+			"Dinesk","Envermark","Coldmarket","Serpentguard","Kelmaldor"]
+	}
+]
